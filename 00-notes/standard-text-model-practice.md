@@ -25,7 +25,7 @@ Provide Unit Test: ขอตัวอย่างโค้ดโดยใช้ 
 ---
 ## 🛠️ 4 Summary of prompts I created
 - ใช้หลักการกำหนด 5 ข้อ template 
-  การกำหนด role "Act as a Senior Backend Developer and Security Researcher" เพื่ือให้ได้ผลลัพท์ที่ตรงกับงานของเรา อธิบาย task สิ่งที่ต้องการ ใช้การบอกให้แยก task ออกมาเป็นส่วนๆ เช่นอธิบาย rootcase / provide unnit test
+  การกำหนด role "Act as a Senior Backend Developer and Security Researcher" เพื่อให้ได้ผลลัพท์ที่ตรงกับงานของเรา อธิบาย task สิ่งที่ต้องการ ใช้การบอกให้แยก task ออกมาเป็นส่วนๆ เช่นอธิบาย rootcase / provide unnit test
 ---
 ## 🗂️ 🔗 Resources & Docs
   - 🧠 [AI Prompt Database](https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=95d47a12393a43a79690d74aad38fd7b)
